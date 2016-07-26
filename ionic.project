@@ -1,0 +1,5 @@
+{
+  "name": "ionicsql",
+  "app_id": "54ea9267"
+  "gulpStartupTasks": ["sass", "watch"]
+}
